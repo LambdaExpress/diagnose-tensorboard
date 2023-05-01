@@ -5,5 +5,5 @@
 
 ## 运行
 ```
-python "diagnose tensorboard.py"
+python diagnose_tensorboard.py
 ```
