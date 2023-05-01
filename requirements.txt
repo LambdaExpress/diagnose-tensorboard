@@ -1,0 +1,5 @@
+tb_nightly==2.11.0a20221016
+tensorboard==2.12.2
+tensorboard_data_server==0.7.0
+tensorflow==2.7.0
+tensorflow_gpu==2.7.0
